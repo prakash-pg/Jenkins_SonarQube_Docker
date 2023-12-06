@@ -2,7 +2,7 @@
 
 1.After creating website or downloading any sample website push it to github 
 
-2.Create 3 EC2 AWS instances for Jenkins, SonarQube and Docker
+2.Create three EC2 AWS instances one for Jenkins, one for SonarQube and another for Docker
 
 3.From Jenkins pull the code from github repository
 
