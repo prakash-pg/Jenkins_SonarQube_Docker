@@ -8,4 +8,4 @@
 
 4.Using SonarCube Analyse the code from Jenkins and make sure the code passes all the test
 
-5.After ensuring the test is passed in SonarQube make it build and deploy it for users accessing the website. 
+5.After ensuring the test is passed in SonarQube make the docker to build and deploy it for users accessing the website. 
