@@ -1,6 +1,6 @@
 # Jenkins_SonarQube_Docker using AWS EC2 Instance
 
-1.After creating any website or creating website from any other sources push it to github 
+1.After creating any website or creating website from any other sources push it to github
 
 2.Create three EC2 AWS instances one for Jenkins, one for SonarQube and another for Docker
 
